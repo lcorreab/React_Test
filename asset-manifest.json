@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lcorreab/React_Test.git/starter-project/static/css/main.f855e6bc.css",
-    "main.js": "/lcorreab/React_Test.git/starter-project/static/js/main.a3b10d8e.js",
-    "static/js/453.b4b7f1ff.chunk.js": "/lcorreab/React_Test.git/starter-project/static/js/453.b4b7f1ff.chunk.js",
-    "static/media/logo.svg": "/lcorreab/React_Test.git/starter-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/lcorreab/React_Test.git/starter-project/index.html",
-    "main.f855e6bc.css.map": "/lcorreab/React_Test.git/starter-project/static/css/main.f855e6bc.css.map",
-    "main.a3b10d8e.js.map": "/lcorreab/React_Test.git/starter-project/static/js/main.a3b10d8e.js.map",
-    "453.b4b7f1ff.chunk.js.map": "/lcorreab/React_Test.git/starter-project/static/js/453.b4b7f1ff.chunk.js.map"
+    "main.css": "/React_test/starter-project/static/css/main.f855e6bc.css",
+    "main.js": "/React_test/starter-project/static/js/main.b8f82660.js",
+    "static/js/453.b4b7f1ff.chunk.js": "/React_test/starter-project/static/js/453.b4b7f1ff.chunk.js",
+    "static/media/logo.svg": "/React_test/starter-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_test/starter-project/index.html",
+    "main.f855e6bc.css.map": "/React_test/starter-project/static/css/main.f855e6bc.css.map",
+    "main.b8f82660.js.map": "/React_test/starter-project/static/js/main.b8f82660.js.map",
+    "453.b4b7f1ff.chunk.js.map": "/React_test/starter-project/static/js/453.b4b7f1ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a3b10d8e.js"
+    "static/js/main.b8f82660.js"
   ]
 }
